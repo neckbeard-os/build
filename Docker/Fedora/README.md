@@ -1,6 +1,6 @@
 ## Fedora Docker
 
-Current version used: fedora:38
+Current version used: `fedora:38`
 
 Packages being installed for building stuffz and testing
 

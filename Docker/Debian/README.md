@@ -1,6 +1,6 @@
 ## Debian Docker
 
-Current version used: Debian:stable-slim
+Current version used: `debian:stable-slim`
 
 Packages currently being installed for building stuffz and testing
 

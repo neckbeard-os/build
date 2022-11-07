@@ -2,7 +2,7 @@
 
 GNU Toolchain for RISC-V architecture
 
-**WARNING**: git clone takes around 6.65 GB of disk and download size
+**WARNING**: git clone within the GNU RISC-V Toolchain takes around 6.65 GB of disk and download size
 
 Dependencies _(Debian)_
 

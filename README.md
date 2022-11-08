@@ -7,7 +7,7 @@ A repository for testing builds and buildscripts with GitHub workflow & actions 
 
 ☆ Docker
 
-☆ GCC Cross-compiler
+☆ GCC Cross-compiler scripts × _Made by [Victor-ray, S.][zendai]_
 
 ☆ Musl libc cross-compiler × _Thanks to [musl-cross-make][musl-cross-make] by [Rich Felker][richfelker]_
 
@@ -47,6 +47,8 @@ gawk build-essential bison flex texinfo gperf patchutils bc
 ```
 
 <!-- LINKS -->
+
+[zendai]: https://github.com/ZendaiOwl
 
 [musl-cross-make]: https://github.com/richfelker/musl-cross-make
 

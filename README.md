@@ -23,7 +23,7 @@ A repository for testing builds and buildscripts with GitHub workflow & actions 
 
 TODO:
 
-☆ Toybox × _Thanks to [Rob Landley][landley], creator and maintainer of [Toybox][toybox]_
+☆ Toybox × _Thanks to [Rob Landley][landley], creator of [Toybox][toybox]_
 
 _Note: If you haven't heard of the Toybox project before or Rob Landley, I highly recommend looking them up_
 

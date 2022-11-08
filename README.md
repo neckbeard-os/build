@@ -11,7 +11,7 @@ A repository for testing builds and buildscripts with GitHub workflow & actions 
 
 ☆ Musl libc cross-compiler × _Thanks to [musl-cross-make][musl-cross-make] by [Rich Felker][richfelker]_
 
-☆ RISC-V GNU Toolchain × _Thanks to [RISCV-GNU-Toolchain][riscv-gnu-toolchain] by [RISC-V Collab's][riscv-collab]_
+☆ RISC-V GNU Toolchain × _Thanks to [RISCV-GNU-Toolchain][riscv-gnu-toolchain] by [RISC-V Software Collaboration][riscv-collab]_
 
 [musl-cross-make]: https://github.com/richfelker/musl-cross-make
 

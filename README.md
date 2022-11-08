@@ -1,8 +1,6 @@
 ## Build
 A repository for testing builds and buildscripts with GitHub workflow & actions as well as Docker images and whatnot else we can think of that we want to try out. It might evolve into something else in time, we'll see
 
----
-
 ☆ RISC-V Musl libc
 
 ☆ Docker
@@ -13,7 +11,7 @@ A repository for testing builds and buildscripts with GitHub workflow & actions 
 
 ☆ RISC-V GNU Toolchain × _Thanks to [RISCV-GNU-Toolchain][riscv-gnu-toolchain] by [RISC-V Software Collaboration][riscv-collab]_
 
-`TODO`:
+↓ `TODO` ↓
 
 ☆ RISC-V GCC × _Thanks to [RISCV-GCC][riscv-gcc] by [RISC-V Software Collaboration][riscv-collab]_
 
@@ -23,15 +21,15 @@ A repository for testing builds and buildscripts with GitHub workflow & actions 
 
 _Note: If you haven't heard of the Toybox project before or Rob Landley, I highly recommend looking them up_
 
----
-
-A couple interesting YouTube videos to check out with Rob Landley for anyone interested. 
+Here are couple interesting YouTube videos to check out with Rob Landley for anyone interested. 
 
 ☆ [Tutorial: Building the Simplest Possible Linux System - Rob Landley][seminarium-2017] _The Linux Foundation, 2017_
 
 ☆ [Interview with Rob Landley, creator of toybox][interview-2017] _Toca do Tux, 2017_
 
 ☆ [Toybox vs BusyBox - Rob Landley, hobbyist][seminarium-2019] _The Linux Foundation, 2019_
+
+---
 
 ### GitHub Codespace Devcontainer
 

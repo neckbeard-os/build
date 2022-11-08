@@ -17,7 +17,7 @@ TODO:
 
 ☆ Compiler (perhaps?)
 
-## GitHub Codespace
+## GitHub Codespace Devcontainer
 
 If you have started a new GitHub Codespace Debian container, which is configured in the `.devcontainer/devcontainer.json`, run the command below to be able to build the GNU RISC-V Toolchain. 
 

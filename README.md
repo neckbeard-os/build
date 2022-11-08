@@ -23,7 +23,35 @@ A repository for testing builds and buildscripts with GitHub workflow & actions 
 
 TODO:
 
-☆ Toybox
+☆ Toybox × _Thanks to [Rob Landley][landley], creator and maintainer of [Toybox][toybox]_
+
+_Note: If you haven't heard of the Toybox project before or Rob Landley, I highly recommend looking them up_
+
+<!-- LINKS -->
+
+[toybox]: https://github.com/landley/toybox
+
+[landley]: https://github.com/landley
+
+<!-- LINKS END -->
+
+A couple interesting & recommended YouTube videos to check out with Rob Landley for anyone interested. 
+
+[Tutorial: Building the Simplest Possible Linux System - Rob Landley][simple-linux] _2017_
+
+[Interview with Rob Landley, creator of toybox][interview-2017] _2017_
+
+[Toybox vs BusyBox - Rob Landley, hobbyist][seminarium-2019] _2019_
+
+<!-- LINKS -->
+
+[simple-linux]: https://www.youtube.com/watch?v=Sk9TatW9ino
+
+[interview-2017]: https://www.youtube.com/watch?v=j7kk-_uuRFc
+
+[seminarium-2019]: https://www.youtube.com/watch?v=MkJkyMuBm3g
+
+<!-- LINKS END -->
 
 ☆ Compiler (perhaps?)
 

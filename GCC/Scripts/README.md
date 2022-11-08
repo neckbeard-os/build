@@ -1,4 +1,4 @@
-# Cross-compiler scripts _(amd64.sh & aarch64.sh)_
+### Cross-compiler scripts _(amd64.sh & aarch64.sh)_
 
 Current configuration in the GCC cross-compiler scripts
 

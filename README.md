@@ -1,15 +1,25 @@
 # Build
-A repository for testing builds and buildscripts with GitHub workflow & actions as well as Docker images and whatnot else we can think of that we want to try out
+A repository for testing builds and buildscripts with GitHub workflow & actions as well as Docker images and whatnot else we can think of that we want to try out. It might evolve into something else in time, we'll see
 
-It might evolve into something else in time, we'll see
+---
 
 ☆ RISC-V
 
 ☆ Docker
 
-☆ GCC
+☆ GCC Cross-compiler
 
-☆ Musl libc
+☆ Musl libc cross-compiler × _Thanks to [musl-cross-make][musl-cross-make] by [Rich Felker][richfelker]_
+
+☆ RISC-V GNU Toolchain × _Thanks to [RISCV-GNU-Toolchain][riscv-gnu-toolchain] by [RISC-V Collab's][riscv-collab]_
+
+[musl-cross-make]: https://github.com/richfelker/musl-cross-make
+
+[richfelker]: https://github.com/richfelker
+
+[riscv-gnu-toolchain]: https://github.com/riscv-collab/riscv-gnu-toolchain
+
+[riscv-collab]: https://github.com/riscv-collab
 
 TODO:
 

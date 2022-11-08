@@ -1,6 +1,8 @@
 ### Cross-compiler scripts  
 _(amd64.sh & aarch64.sh)_
 
+This [article][article] taught me how to build a cross-compiler for another architecture, I recommend reading it if cross-compilation is of interest to you. 
+
 Current configuration in the GCC cross-compiler scripts
 
 Package|Version
@@ -14,3 +16,9 @@ ISL|0.24
 KERNEL|5.15.12
 MPFR|4.1.0
 MPC|1.2.1
+
+<!-- LINKS -->
+
+[article]: https://preshing.com/20141119/how-to-build-a-gcc-cross-compiler/
+
+<!-- END LINKS -->

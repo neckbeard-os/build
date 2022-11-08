@@ -13,7 +13,9 @@ A repository for testing builds and buildscripts with GitHub workflow & actions 
 
 ☆ RISC-V GNU Toolchain × _Thanks to [RISCV-GNU-Toolchain][riscv-gnu-toolchain] by [RISC-V Software Collaboration][riscv-collab]_
 
-- `TODO`:
+`TODO`:
+
+☆ Custom Compiler _(perhaps, we'll see)_
 
 ☆ Toybox × _Thanks to [Rob Landley][landley], creator of [Toybox][toybox]_
 
@@ -21,13 +23,11 @@ _Note: If you haven't heard of the Toybox project before or Rob Landley, I highl
 
 A couple interesting YouTube videos to check out with Rob Landley for anyone interested. 
 
-[Tutorial: Building the Simplest Possible Linux System - Rob Landley][seminarium-2017] _The Linux Foundation, 2017_
+☆ [Tutorial: Building the Simplest Possible Linux System - Rob Landley][seminarium-2017] _The Linux Foundation, 2017_
 
-[Interview with Rob Landley, creator of toybox][interview-2017] _Toca do Tux, 2017_
+☆ [Interview with Rob Landley, creator of toybox][interview-2017] _Toca do Tux, 2017_
 
-[Toybox vs BusyBox - Rob Landley, hobbyist][seminarium-2019] _The Linux Foundation, 2019_
-
-☆ Compiler (perhaps?)
+☆ [Toybox vs BusyBox - Rob Landley, hobbyist][seminarium-2019] _The Linux Foundation, 2019_
 
 ## GitHub Codespace Devcontainer
 

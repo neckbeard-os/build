@@ -1,7 +1,7 @@
 ## Build
 A repository for testing builds and buildscripts with GitHub workflow & actions as well as Docker images and whatnot else we can think of that we want to try out. It might evolve into something else in time, we'll see
 
-☆ RISC-V
+☆ [RISC-V][riscv]
 
 ☆ Docker
 
@@ -51,6 +51,8 @@ gawk build-essential bison flex texinfo gperf patchutils bc
 [musl-cross-make]: https://github.com/richfelker/musl-cross-make
 
 [richfelker]: https://github.com/richfelker
+
+[riscv]: https://github.com/riscv
 
 [riscv-gcc]: https://github.com/riscv-collab/riscv-gcc
 

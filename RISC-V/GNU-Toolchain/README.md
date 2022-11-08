@@ -54,6 +54,6 @@ LINUX_VER = 5.8.5
 
 [riscv-collab]: https://github.com/riscv-collab
 
-[riscv]: https://riscv.org/
+[riscv]: https://github.com/riscv
 
 <!-- LINKS END -->

@@ -37,15 +37,15 @@ _Note: If you haven't heard of the Toybox project before or Rob Landley, I highl
 
 A couple interesting & recommended YouTube videos to check out with Rob Landley for anyone interested. 
 
-[Tutorial: Building the Simplest Possible Linux System - Rob Landley][simple-linux] _2017_
+[Tutorial: Building the Simplest Possible Linux System - Rob Landley][seminarium-2017] _The Linux Foundation, 2017_
 
-[Interview with Rob Landley, creator of toybox][interview-2017] _2017_
+[Interview with Rob Landley, creator of toybox][interview-2017] _Toca do Tux, 2017_
 
-[Toybox vs BusyBox - Rob Landley, hobbyist][seminarium-2019] _2019_
+[Toybox vs BusyBox - Rob Landley, hobbyist][seminarium-2019] _The Linux Foundation, 2019_
 
 <!-- LINKS -->
 
-[simple-linux]: https://www.youtube.com/watch?v=Sk9TatW9ino
+[seminarium-2017]: https://www.youtube.com/watch?v=Sk9TatW9ino
 
 [interview-2017]: https://www.youtube.com/watch?v=j7kk-_uuRFc
 

@@ -3,7 +3,7 @@ A repository for testing builds and buildscripts with GitHub workflow & actions 
 
 ---
 
-☆ RISC-V
+☆ RISC-V Musl libc
 
 ☆ Docker
 
@@ -15,11 +15,15 @@ A repository for testing builds and buildscripts with GitHub workflow & actions 
 
 `TODO`:
 
+☆ RISC-V GCC × _Thanks to [RISCV-GCC][riscv-gcc] by [RISC-V Software Collaboration][riscv-collab]_
+
 ☆ Custom Compiler _(perhaps, we'll see)_
 
 ☆ Toybox × _Thanks to [Rob Landley][landley], creator of [Toybox][toybox]_
 
 _Note: If you haven't heard of the Toybox project before or Rob Landley, I highly recommend looking them up_
+
+---
 
 A couple interesting YouTube videos to check out with Rob Landley for anyone interested. 
 
@@ -47,6 +51,8 @@ gawk build-essential bison flex texinfo gperf patchutils bc
 [musl-cross-make]: https://github.com/richfelker/musl-cross-make
 
 [richfelker]: https://github.com/richfelker
+
+[riscv-gcc]: https://github.com/riscv-collab/riscv-gcc
 
 [riscv-gnu-toolchain]: https://github.com/riscv-collab/riscv-gnu-toolchain
 

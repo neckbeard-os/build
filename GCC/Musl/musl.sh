@@ -11,12 +11,6 @@ debug() {
 }
 # × × VARIABLES × × #
 GIT_REPO_MUSL="https://github.com/richfelker/musl-cross-make"
-# Some of the available target architectures
-# i486-linux-musl
-# x86_64-linux-musl
-# arm-linux-musleabi
-# arm-linux-musleabihf
-# sh2eb-linux-muslfdpic
 TARGET="arm-linux-musleabi"
 CONF="./config.mak"
 MAKFILE="./Makefile"
@@ -52,7 +46,7 @@ debug "Setting output directory to $OUTPUT"
 sed -i '32a OUTPUT = '"$OUTPUT"'' "$CONF"
 # × × × × × × × × × × × × × × × × × × #
 debug "Compile and install to $OUTPUT"
-make -j $(nproc)
+make -j "$(nproc)"
 make install
 debug "Done"
 # × × × × × × × × × × × × × × × × × × #

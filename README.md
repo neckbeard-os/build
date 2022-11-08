@@ -1,4 +1,4 @@
-# Build
+## Build
 A repository for testing builds and buildscripts with GitHub workflow & actions as well as Docker images and whatnot else we can think of that we want to try out. It might evolve into something else in time, we'll see
 
 ---
@@ -33,7 +33,7 @@ A couple interesting YouTube videos to check out with Rob Landley for anyone int
 
 ☆ [Toybox vs BusyBox - Rob Landley, hobbyist][seminarium-2019] _The Linux Foundation, 2019_
 
-## GitHub Codespace Devcontainer
+### GitHub Codespace Devcontainer
 
 If you have started a new GitHub Codespace Debian container, which is configured in the `.devcontainer/devcontainer.json`, run the command below to be able to build the GNU RISC-V Toolchain. 
 

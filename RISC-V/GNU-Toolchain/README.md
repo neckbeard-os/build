@@ -1,6 +1,6 @@
-## RISC-V 
+### RISC-V 
 
-GNU Toolchain for RISC-V architecture
+[RISC-V GNU Toolchain][riscv-gnu-toolchain] by [RISC-V Software Collaboration][riscv-collab] for RISC-V architecture
 
 **WARNING**: git clone within the GNU RISC-V Toolchain takes around 6.65 GB of disk and download size
 
@@ -47,3 +47,11 @@ MPFR_VER = 4.0.2
 ISL_VER = 0.15
 LINUX_VER = 5.8.5
 ```
+
+<!-- LINKS -->
+
+[riscv-gnu-toolchain]: https://github.com/riscv-collab/riscv-gnu-toolchain
+
+[riscv-collab]: https://github.com/riscv-collab
+
+<!-- LINKS END -->

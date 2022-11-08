@@ -37,7 +37,7 @@ A couple interesting YouTube videos to check out with Rob Landley for anyone int
 
 If you have started a new GitHub Codespace Debian container, which is configured in the `.devcontainer/devcontainer.json`, run the command below to be able to build the GNU RISC-V Toolchain. 
 
-It might be a good idea to run it at first boot either way so there won't be any issues when building, annoying to have the build fail due to missing packages. 
+It might be a good idea to run it after container creation either way so there won't be any issues when building, annoying to have the build fail due to missing packages. 
 
 ```bash
 sudo apt-get update -y && \

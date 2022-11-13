@@ -1,6 +1,8 @@
 ## Build
 A repository for testing builds and buildscripts with GitHub workflow & actions as well as Docker images and whatnot else we can think of that we want to try out. It might evolve into something else in time, we'll see
 
+☆ [Kernel][kernel]
+
 ☆ [RISC-V][riscv]
 
 ☆ Docker
@@ -45,6 +47,8 @@ gawk build-essential bison flex texinfo gperf patchutils bc
 ```
 
 <!-- LINKS -->
+
+[kernel]: https://www.kernel.org/
 
 [zendai]: https://github.com/ZendaiOwl
 
